@@ -1,0 +1,14 @@
+body{background-image: url(https://cdn.pixabay.com/photo/2017/01/08/21/11/wood-1963988_960_720.jpg);background-attachment: fixed}
+
+h1{font-family:'KoHo', sans-serif ; color: #21094e; font-size: 10mm; text-align:center ;}
+p{ font-size: 5mm;}
+h3{color:blue; font-family: 'Reggae One'; font-size: 6mm;}
+li{font-size: 6mm;}
+p{font-size: 5mm;}
+.galle{border: 10px cadetblue dotted; padding: 3mm; text-align: center; }
+.rogel{border: 10px cadetblue dotted; padding: 3mm; text-align: center; }
+.card-group{justify-content: space-around;} 
+.receta1{float: left; width: 100%;}
+.receta2{float: left; width: 100%;}
+.receta3{float: left; width: 100%;}
+.cupcake{ border: 10px cadetblue dotted; padding: 3mm; text-align: center;}
